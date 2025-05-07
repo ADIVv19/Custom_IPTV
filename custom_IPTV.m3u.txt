@@ -1,0 +1,351 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" tvg-name="Altitude Sports" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h15_ab.png",Altitude Sports
+https://v12.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="Big Ten Sports" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s56783_h15_ab.png",Big Ten Sports
+https://v8.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16365_h15_ae.png",CBS Sports
+https://v12.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Chicago.Sports.Network.us" tvg-name="Chicago Sports Network" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s166708_h15_aa.png",Chicago Sports Network
+https://v18.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png",ESPN
+https://v16.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png",ESPN2
+https://v14.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPNews" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16485_h15_aa.png",ESPNews
+https://v8.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="ESPNU" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s45654_h15_aa.png",ESPNU
+https://v12.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cincinnati.us" tvg-name="FanDuel Sports Cincinatti" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11106_h15_ac.png",FanDuel Sports Cincinatti
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/47472.ts
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.HD.us" tvg-name="FanDuel Sports Detroit" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17619_h15_ac.png",FanDuel Sports Detroit
+https://v2.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.us" tvg-name="FanDuel Sports Florida" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11095_h15_ac.png",FanDuel Sports Florida
+https://v12.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Great.Lakes.us" tvg-name="FanDuel Sports Great Lakes" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s50167_h15_ac.png",FanDuel Sports Great Lakes
+https://v13.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Indiana.us" tvg-name="FanDuel Sports Indiana" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s63531_h15_ac.png",FanDuel Sports Indiana
+https://v4.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Midwest.-.Kansas.City.us" tvg-name="FanDuel Sports Kansas City" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s19739_h15_ac.png",FanDuel Sports Kansas City
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1667
+#EXTINF:-1 tvg-id="FanDuel.Sports.Midwest.-.Kansas.State.us" tvg-name="FanDuel Sports Midwest" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s19739_h15_ac.png",FanDuel Sports Midwest
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/324
+#EXTINF:-1 tvg-id="FanDuel.Sports.New.Orleans.us" tvg-name="FanDuel Sports New Orleans" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1920px-FanDuel_Sports_Network_logo.svg.png",FanDuel Sports New Orleans
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1614
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.us" tvg-name="FanDuel Sports North" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10977_h15_ac.png",FanDuel Sports North
+https://v1.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-name="FanDuel Sports Ohio" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11106_h15_ac.png",FanDuel Sports Ohio
+https://v18.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.us" tvg-name="FanDuel Sports Oklahoma" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16056_h15_ab.png",FanDuel Sports Oklahoma
+https://v15.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.San.Diego.us" tvg-name="FanDuel Sports San Diego" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1920px-FanDuel_Sports_Network_logo.svg.png",FanDuel Sports San Diego
+https://v8.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-name="FanDuel Sports SoCal" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16743_h15_ac.png",FanDuel Sports SoCal
+https://v13.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South.us" tvg-name="FanDuel Sports South" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12410_h15_ac.png",FanDuel Sports South
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/319
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South-.Carolinas.us" tvg-name="FanDuel Sports South Carolinas" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12410_h15_ac.png",FanDuel Sports South Carolinas
+https://v17.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South-.Tennessee.(USA).us" tvg-name="FanDuel Sports South Tennessee" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12410_h15_ac.png",FanDuel Sports South Tennessee
+https://v14.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southeast.us" tvg-name="FanDuel Sports Southeast" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20789_h15_ac.png",FanDuel Sports Southeast
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/872
+#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.Georgia.us" tvg-name="FanDuel Sports Southeast Georgia" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20789_h15_ac.png",FanDuel Sports Southeast Georgia
+https://v18.thetvapp.to/hls/fanduel-sports-southeast-georgia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.Tennessee.Nashville.us" tvg-name="FanDuel Sports Southeast Nashville" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20789_h15_ac.png",FanDuel Sports Southeast Nashville
+https://v15.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.North.Carolina.us" tvg-name="FanDuel Sports Southeast North Carolina" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20789_h15_ac.png",FanDuel Sports Southeast North Carolina
+https://v3.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.South.Carolina.us" tvg-name="FanDuel Sports Southeast South Carolina" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20789_h15_ac.png",FanDuel Sports Southeast South Carolina
+https://v17.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southwest.us" tvg-name="FanDuel Sports Southwest" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10262_h15_ac.png",FanDuel Sports Southwest
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1189
+#EXTINF:-1 tvg-id="Fanduel.Sports.Sun.us" tvg-name="FanDuel Sports Sun" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18003_h15_ad.png",FanDuel Sports Sun
+https://v15.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports..-.Tennessee.East.us" tvg-name="FanDuel Sports Tennessee East" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20789_h15_ac.png",FanDuel Sports Tennessee East
+https://v8.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.West.us" tvg-name="FanDuel Sports West" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59627_h15_ac.png",FanDuel Sports West
+https://v8.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-name="FanDuel Sports Wisconsin" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16348_h15_ac.png",FanDuel Sports Wisconsin
+https://v2.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="Fanduel TV" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s103679_h15_ab.png",Fanduel TV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/332
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="FOX Sports 1" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png",FOX Sports 1
+https://v1.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FOX Sports 2" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s33178_h15_ab.png",FOX Sports 2
+https://v2.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.us" tvg-name="Marquee Sports Network" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s113768_h15_aa.png",Marquee Sports Network
+https://v5.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mid-Atlantic.Sports.Network.us" tvg-name="Mid-Atlantic Sports Network" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s46817_h9_aa.png",Mid-Atlantic Sports Network
+https://v17.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mid-Atlantic.Sports.Network.2.us" tvg-name="Mid-Atlantic Sports Network 2" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s55433_h9_aa.png",Mid-Atlantic Sports Network 2
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1616
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s62079_h15_aa.png",MLB Network
+https://v12.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Monumental.Sports.Network.us" tvg-name="Monumental Sports" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10271_h15_ad.png",Monumental Sports
+https://v16.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10979_h15_ab.png",MSG
+https://v5.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MSG.Plus.us" tvg-name="MSG+" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11105_h15_ac.png",MSG+
+https://v15.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MSG.2.us" tvg-name="MSG2" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70283_h15_aa.png",MSG2
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48366.ts
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png",NBA TV
+https://v5.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.us" tvg-name="NBC Sports Bay Area" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11109_h15_ad.png",NBC Sports Bay Area
+https://v2.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.us" tvg-name="NBC Sports Boston" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11104_h15_ac.png",NBC Sports Boston
+https://v1.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-name="NBC Sports California" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s44917_h15_ad.png",NBC Sports California
+https://v8.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-name="NBC Sports Philadelphia" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17596_h15_ac.png",NBC Sports Philadelphia
+https://v4.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="New.England.Sports.Network.us" tvg-name="NESN" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10996_h15_ac.png",NESN
+https://v4.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="New.England.Sports.Network.Plus.us" tvg-name="NESN+" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s63198_h15_ac.png",NESN+
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/45836
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s45399_h15_aa.png",NFL Network
+https://v15.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s65024_h9_aa.png",NFL RedZone
+https://v16.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58570_h15_ab.png",NHL Network
+https://v18.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11062_h15_aa.png",Root Sports
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1613
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="Sec Network" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s89535_h15_ab.png",Sec Network
+https://v12.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Space.City.Home.Network.us" tvg-name="Space City Home Netowrk" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s77744_h15_ac.png",Space City Home Netowrk
+https://v17.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="Spectrum Sportsnet" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s77375_h15_ab.png",Spectrum Sportsnet
+https://v5.thetvapp.to/hls/spectrum-sportsnet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Spectrum.Sportsnet.Dodgers.us" tvg-name="Spectrum Sportsnet LA" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s87023_h15_ab.png",Spectrum Sportsnet LA
+https://v3.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-name="Sportsnet East" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18798_h15_aa.png",Sportsnet East
+https://v17.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="Sportsnet Ontario" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18799_h15_aa.png",Sportsnet Ontario
+https://v12.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70398_h15_ab.png",Sportsnet West
+https://v17.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-name="Sportsnet Pacific" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18801_h15_aa.png",Sportsnet Pacific
+https://v15.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png",Sportsnet One
+https://v5.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68946_h15_aa.png",Sportsnet World
+https://ott.udptv.net/stream/iptv/sportsnetworld/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-name="Sportsnet 360" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s20203_h15_aa.png",Sportsnet 360
+https://v18.thetvapp.to/hls/sportsnet-360/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-name="Sportsnet New York" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s49603_h9_aa.png",Sportsnet New York
+https://v17.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" tvg-name="Sportsnet Pittsburgh" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s26028_h15_ac.png",Sportsnet Pittsburgh
+https://v16.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png",TNT
+https://v1.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="TrutTV" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10153_h15_ad.png",TrutTV
+https://v12.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png",TSN 1
+https://v8.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png",TSN 2
+https://v15.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90118_h15_aa.png",TSN 3
+https://v4.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png",TSN 4
+https://v14.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90124_h15_aa.png",TSN 5
+https://v5.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="YES.Network.us" tvg-name="YES" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s30017_h15_aa.png",YES
+https://v3.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MLB-ArizonaDiamondbacks.us" tvg-name="Arizona Diamondbacks" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png?w=110&h=110",Arizona Diamondbacks
+https://locked.pixelserver.online/psportsgate/psportsgate100/106.m3u8
+#EXTINF:-1 tvg-id="MLB-AtlantaBraves.us" tvg-name="Atlanta Braves" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png?w=110&h=110",Atlanta Braves
+https://locked.pixelserver.online/psportsgate/psportsgate100/107.m3u8
+#EXTINF:-1 tvg-id="MLB-BaltimoreOrioles.us" tvg-name="Baltimore Orioles" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bal.png?w=110&h=110",Baltimore Orioles
+https://locked.pixelsport.to/psportsgate/psportsgate100/135.m3u8
+#EXTINF:-1 tvg-id="MLB-BostonRedSox.us" tvg-name="Boston Red Sox" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png?w=110&h=110",Boston Red Sox
+https://locked.pixelserver.online/psportsgate/psportsgate100/108.m3u8
+#EXTINF:-1 tvg-id="MLB-ChicagoCubs.us" tvg-name="Chicago Cubs" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png?w=110&h=110",Chicago Cubs
+https://locked.pixelserver.online/psportsgate/psportsgate100/109.m3u8
+#EXTINF:-1 tvg-id="MLB-ChicagoWhiteSox.us" tvg-name="Chicago White Sox" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chw.png?w=110&h=110",Chicago White Sox
+https://locked.pixelsport.to/psportsgate/psportsgate100/110.m3u8
+#EXTINF:-1 tvg-id="MLB-CincinnatiReds.us" tvg-name="Cincinnati Reds" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png?w=110&h=110",Cincinnati Reds
+https://locked.pixelsport.to/psportsgate/psportsgate100/111.m3u8
+#EXTINF:-1 tvg-id="MLB-ClevelandGuardians.us" tvg-name="Cleveland Guardians" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cle.png?w=110&h=110",Cleveland Guardians
+https://locked.pixelsport.to/psportsgate/psportsgate100/112.m3u8
+#EXTINF:-1 tvg-id="MLB-ColoradoRockies.us" tvg-name="Colorado Rockies" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/col.png?w=110&h=110",Colorado Rockies
+https://locked.pixelserver.online/psportsgate/psportsgate100/113.m3u8
+#EXTINF:-1 tvg-id="MLB-DetroitTigers.us" tvg-name="Detroit Tigers" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/det.png?w=110&h=110",Detroit Tigers
+https://locked.pixelsport.to/psportsgate/psportsgate100/114.m3u8
+#EXTINF:-1 tvg-id="MLB-HoustonAstros.us" tvg-name="Houston Astros" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/hou.png?w=110&h=110",Houston Astros
+https://locked.pixelsport.to/psportsgate/psportsgate100/115.m3u8
+#EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="Kansas City Royals" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/kc.png?w=110&h=110",Kansas City Royals
+https://locked.pixelserver.online/psportsgate/psportsgate100/116.m3u8
+#EXTINF:-1 tvg-id="MLB-LosAngelesAngels.us" tvg-name="Los Angeles Angels" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/laa.png?w=110&h=110",Los Angeles Angels
+https://locked.pixelsport.to/psportsgate/psportsgate100/117.m3u8
+#EXTINF:-1 tvg-id="MLB-LosAngelesDodgers.us" tvg-name="Los Angeles Dodgers" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png?w=110&h=110",Los Angeles Dodgers
+https://locked.pixelsport.to/psportsgate/psportsgate100/134.m3u8
+#EXTINF:-1 tvg-id="MLB-MiamiMarlins.us" tvg-name="Miami Marlins" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mia.png?w=110&h=110",Miami Marlins
+https://locked.pixelserver.online/psportsgate/psportsgate100/118.m3u8
+#EXTINF:-1 tvg-id="MLB-MilwaukeeBrewers.us" tvg-name="Milwaukee Brewers" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png?w=110&h=110",Milwaukee Brewers
+https://locked.pixelserver.online/psportsgate/psportsgate100/119.m3u8
+#EXTINF:-1 tvg-id="MLB-MinnesotaTwins.us" tvg-name="Minnesota Twins" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/min.png?w=110&h=110",Minnesota Twins
+https://locked.pixelserver.online/psportsgate/psportsgate100/120.m3u8
+#EXTINF:-1 tvg-id="MLB-NewYorkMets.us" tvg-name="New York Mets" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png?w=110&h=110",New York Mets
+https://locked.pixelsport.to/psportsgate/psportsgate100/121.m3u8
+#EXTINF:-1 tvg-id="MLB-NewYorkYankees.us" tvg-name="New York Yankees" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png?w=110&h=110",New York Yankees
+https://locked.pixelserver.online/psportsgate/psportsgate100/122.m3u8
+#EXTINF:-1 tvg-id="MLB-Athletics.us" tvg-name="Oakland Athletics" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png?w=110&h=110",Oakland Athletics
+https://locked.pixelserver.online/psportsgate/psportsgate100/123.m3u8
+#EXTINF:-1 tvg-id="MLB-PhiladelphiaPhillies.us" tvg-name="Philadelphia Phillies" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png?w=110&h=110",Philadelphia Phillies
+https://locked.pixelsport.to/psportsgate/psportsgate100/124.m3u8
+#EXTINF:-1 tvg-id="MLB-PittsburghPirates.us" tvg-name="Pittsburgh Pirates" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/pit.png?w=110&h=110",Pittsburgh Pirates
+https://locked.pixelsport.to/psportsgate/psportsgate100/125.m3u8
+#EXTINF:-1 tvg-id="MLB-SanDiegoPadres.us" tvg-name="San Diego Padres" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png?w=110&h=110",San Diego Padres
+https://locked.pixelsport.to/psportsgate/psportsgate100/126.m3u8
+#EXTINF:-1 tvg-id="MLB-SeattleMariners.us" tvg-name="Seattle Mariners" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png?w=110&h=110",Seattle Mariners
+https://locked.pixelsport.to/psportsgate/psportsgate100/128.m3u8
+#EXTINF:-1 tvg-id="MLB-SanFranciscoGiants.us" tvg-name="San Francisco Giants" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png?w=110&h=110",San Francisco Giants
+https://locked.pixelsport.to/psportsgate/psportsgate100/127.m3u8
+#EXTINF:-1 tvg-id="MLB-St.LouisCardinals.us" tvg-name="St. Louis Cardinals" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png?w=110&h=110",St. Louis Cardinals
+https://locked.pixelserver.online/psportsgate/psportsgate100/129.m3u8
+#EXTINF:-1 tvg-id="MLB-TampaBayRays.us" tvg-name="Tampa Bay Rays" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tb.png?w=110&h=110",Tampa Bay Rays
+https://locked.pixelserver.online/psportsgate/psportsgate100/130.m3u8
+#EXTINF:-1 tvg-id="MLB-TexasRangers.us" tvg-name="Texas Rangers" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tex.png?w=110&h=110",Texas Rangers
+https://locked.pixelsport.to/psportsgate/psportsgate100/131.m3u8
+#EXTINF:-1 tvg-id="MLB-TorontoBlueJays.us" tvg-name="Toronto Blue Jays" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png?w=110&h=110",Toronto Blue Jays
+https://locked.pixelsport.to/psportsgate/psportsgate100/132.m3u8
+#EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="Washington Nationals" group-title="MLB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/wsh.png?w=110&h=110",Washington Nationals
+https://locked.pixelserver.online/psportsgate/psportsgate100/133.m3u8
+#EXTINF:-1 tvg-id="NHL-AnaheimDucks.us" tvg-name="Anaheim Ducks" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/ana.png",Anaheim Ducks
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48385.ts
+#EXTINF:-1 tvg-id="NHL-BostonBruins.us" tvg-name="Boston Bruins" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/bos.png",Boston Bruins
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48387.ts
+#EXTINF:-1 tvg-id="NHL-BuffaloSabres.us" tvg-name="Buffalo Sabres" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/buf.png",Buffalo Sabres
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48388.ts
+#EXTINF:-1 tvg-id="NHL-CalgaryFlames.us" tvg-name="Calgary Flames" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/cgy.png",Calgary Flames
+https://locked.pixelsport.to/psportsgate/psportsgate100/137.m3u8
+#EXTINF:-1 tvg-id="NHL-CarolinaHurricanes.us" tvg-name="Carolina Hurricanes" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/car.png",Carolina Hurricanes
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48390.ts
+#EXTINF:-1 tvg-id="NHL-ChicagoBlackhawks.us" tvg-name="Chicago Blackhawks" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/chi.png",Chicago Blackhawks
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48391.ts
+#EXTINF:-1 tvg-id="NHL-ColoradoAvalanche.us" tvg-name="Colorado Avalanche" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/col.png",Colorado Avalanche
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48392.ts
+#EXTINF:-1 tvg-id="NHL-ColumbusBlueJackets.us" tvg-name="Columbus Blue Jackets" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/cbj.png",Columbus Blue Jackets
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48393.ts
+#EXTINF:-1 tvg-id="NHL-DallasStars.us" tvg-name="Dallas Stars" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/dal.png",Dallas Stars
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48394.ts
+#EXTINF:-1 tvg-id="NHL-DetroitRedWings.us" tvg-name="Detroit Red Wings" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/det.png",Detroit Red Wings
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48395.ts
+#EXTINF:-1 tvg-id="NHL-EdmontonOilers.us" tvg-name="Edmonton Oilers" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/edm.png",Edmonton Oilers
+https://locked.pixelsport.to/psportsgate/psportsgate100/16.m3u8
+#EXTINF:-1 tvg-id="NHL-FloridaPanthers.us" tvg-name="Florida Panthers" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/fla.png",Florida Panthers
+https://locked.pixelsport.to/psportsgate/psportsgate100/17.m3u8
+#EXTINF:-1 tvg-id="NHL-LosAngelesKings.us" tvg-name="Los Angeles Kings" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/la.png",Los Angeles Kings
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48398.ts
+#EXTINF:-1 tvg-id="NHL-MinnesotaWild.us" tvg-name="Minnesota Wild" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/min.png",Minnesota Wild
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48399.ts
+#EXTINF:-1 tvg-id="NHL-MontrealCanadiens.us" tvg-name="Montreal Canadiens" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/mtl.png",Montreal Canadiens
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48400.ts
+#EXTINF:-1 tvg-id="NHL-NashvillePredators.us" tvg-name="Nashville Predators" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/nsh.png",Nashville Predators
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48401.ts
+#EXTINF:-1 tvg-id="NHL-NewJerseyDevils.us" tvg-name="New Jersey Devils" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/nj.png",New Jersey Devils
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48402.ts
+#EXTINF:-1 tvg-id="NHL-NewYorkIslanders.us" tvg-name="New York Islanders" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/nyi.png",New York Islanders
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48403.ts
+#EXTINF:-1 tvg-id="NHL-NewYorkRangers.us" tvg-name="New York Rangers" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/nyr.png",New York Rangers
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48404.ts
+#EXTINF:-1 tvg-id="NHL-OttawaSenators.us" tvg-name="Ottawa Senators" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/ott.png",Ottawa Senators
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48405.ts
+#EXTINF:-1 tvg-id="NHL-PhiladelphiaFlyers.us" tvg-name="Philadelphia Flyers" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/phi.png",Philadelphia Flyers
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48406.ts
+#EXTINF:-1 tvg-id="NHL-PittsburghPenguins.us" tvg-name="Pittsburgh Penguins" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/pit.png",Pittsburgh Penguins
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48407.ts
+#EXTINF:-1 tvg-id="NHL-SanJoseSharks.us" tvg-name="San Jose Sharks" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/sj.png",San Jose Sharks
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48408.ts
+#EXTINF:-1 tvg-id="NHL-SeattleKraken.us" tvg-name="Seattle Kraken" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/sea.png",Seattle Kraken
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48409.ts
+#EXTINF:-1 tvg-id="NHL-St.LouisBlues.us" tvg-name="St Louis Blues" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/stl.png",St Louis Blues
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48410.ts
+#EXTINF:-1 tvg-id="NHL-TampaBayLightning.us" tvg-name="Tampa Bay Lightning" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/tb.png",Tampa Bay Lightning
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48411.ts
+#EXTINF:-1 tvg-id="NHL-TorontoMapleLeafs.us" tvg-name="Toronto Maple Leafs" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/tor.png",Toronto Maple Leafs
+https://locked.pixelsport.to/psportsgate/psportsgate100/32.m3u8
+#EXTINF:-1 tvg-id="NHL-UtahHockeyClub.us" tvg-name="Utah Mammoth" group-title="NHL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/UtahMammoth.svg/1200px-UtahMammoth.svg.png",Utah Mammoth
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48386.ts
+#EXTINF:-1 tvg-id="NHL-VancouverCanucks.us" tvg-name="Vancouver Canucks" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/van.png",Vancouver Canucks
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48413.ts
+#EXTINF:-1 tvg-id="NHL-VegasGoldenKnights.us" tvg-name="Vegas Golden Knights" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/vgk.png",Vegas Golden Knights
+https://locked.pixelsport.to/psportsgate/psportsgate100/33.m3u8
+#EXTINF:-1 tvg-id="NHL-WashingtonCapitals.us" tvg-name="Washington Capitals" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/wsh.png",Washington Capitals
+http://sapphireapp.xyz:8080/live/Scott293/6038330055/48415.ts
+#EXTINF:-1 tvg-id="NHL-WinnipegJets.us" tvg-name="Winnipeg Jets" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/wpg.png",Winnipeg Jets
+https://locked.pixelsport.to/psportsgate/psportsgate100/34.m3u8
+#EXTINF:-1 tvg-id="NFL-ArizonaCardinals.us" tvg-name="Arizona Cardinals" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/ari.png",Arizona Cardinals
+#EXTINF:-1 tvg-id="NFL-AtlantaFalcons.us" tvg-name="Atlanta Falcons" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/atl.png",Atlanta Falcons
+#EXTINF:-1 tvg-id="NFL-BaltimoreRavens.us" tvg-name="Baltimore Ravens" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/bal.png",Baltimore Ravens
+#EXTINF:-1 tvg-id="NFL-BuffaloBills.us" tvg-name="Buffalo Bills" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/buf.png",Buffalo Bills
+#EXTINF:-1 tvg-id="NFL-CarolinaPanthers.us" tvg-name="Carolina Panthers" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",Carolina Panthers
+#EXTINF:-1 tvg-id="NFL-ChicagoBears.us" tvg-name="Chicago Bears" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/chi.png",Chicago Bears
+#EXTINF:-1 tvg-id="NFL-CincinnatiBengals.us" tvg-name="Cincinnati Bengals" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/cin.png",Cincinnati Bengals
+#EXTINF:-1 tvg-id="NFL-ClevelandBrowns.us" tvg-name="Cleveland Browns" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/cle.png",Cleveland Browns
+#EXTINF:-1 tvg-id="NFL-DallasCowboys.us" tvg-name="Dallas Cowboys" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/dal.png",Dallas Cowboys
+#EXTINF:-1 tvg-id="NFL-DenverBroncos.us" tvg-name="Denver Broncos" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/den.png",Denver Broncos
+#EXTINF:-1 tvg-id="NFL-DetroitLions.us" tvg-name="Detroit Lions" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/det.png",Detroit Lions
+#EXTINF:-1 tvg-id="NFL-GreenBayPackers.us" tvg-name="Green Bay Packers" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/gb.png",Green Bay Packers
+#EXTINF:-1 tvg-id="NFL-HoustonTexans.us" tvg-name="Houston Texans" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/hou.png",Houston Texans
+#EXTINF:-1 tvg-id="NFL-IndianapolisColts.us" tvg-name="Indianapolis Colts" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/ind.png",Indianapolis Colts
+#EXTINF:-1 tvg-id="NFL-JacksonvilleJaguars.us" tvg-name="Jacksonville Jaguars" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/jax.png",Jacksonville Jaguars
+#EXTINF:-1 tvg-id="NFL-KansasCityChiefs.us" tvg-name="Kansas City Chiefs" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/kc.png",Kansas City Chiefs
+https://locked.pixelpanel.live/psportsgate/psportsgate100/44.m3u8
+#EXTINF:-1 tvg-id="NFL-LasVegasRaiders.us" tvg-name="Las Vegas Raiders" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",Las Vegas Raiders
+#EXTINF:-1 tvg-id="NFL-LosAngelesChargers.us" tvg-name="Los Angeles Chargers" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/lac.png",Los Angeles Chargers
+#EXTINF:-1 tvg-id="NFL-LosAngelesRams.us" tvg-name="Los Angeles Rams" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/lar.png",Los Angeles Rams
+#EXTINF:-1 tvg-id="NFL-MiamiDolphins.us" tvg-name="Miami Dolphins" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/mia.png",Miami Dolphins
+#EXTINF:-1 tvg-id="NFL-MinnesotaVikings.us" tvg-name="Minnesota Vikings" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/min.png",Minnesota Vikings
+#EXTINF:-1 tvg-id="NFL-NewEnglandPatriots.us" tvg-name="New England Patriots" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/ne.png",New England Patriots
+#EXTINF:-1 tvg-id="NFL-NewOrleansSaints.us" tvg-name="New Orleans Saints" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/no.png",New Orleans Saints
+#EXTINF:-1 tvg-id="NFL-NewYorkGiants.us" tvg-name="New York Giants" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/nyg.png",New York Giants
+#EXTINF:-1 tvg-id="NFL-NewYorkJets.us" tvg-name="New York Jets" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/nyj.png",New York Jets
+#EXTINF:-1 tvg-id="NFL-PhiladelphiaEagles.us" tvg-name="Philadelphia Eagles" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/phi.png",Philadelphia Eagles
+https://locked.pixelpanel.live/psportsgate/psportsgate100/140.m3u8
+#EXTINF:-1 tvg-id="NFL-PittsburghSteelers.us" tvg-name="Pittsburgh Steelers" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/pit.png",Pittsburgh Steelers
+#EXTINF:-1 tvg-id="NFL-SanFrancisco49ers.us" tvg-name="San Francisco 49ers" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/sf.png",San Francisco 49ers
+#EXTINF:-1 tvg-id="NFL-SeattleSeahawks.us" tvg-name="Seattle Seahawks" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/sea.png",Seattle Seahawks
+#EXTINF:-1 tvg-id="NFL-TampaBayBuccaneers.us" tvg-name="Tampa Bay Buccaneers" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/tb.png",Tampa Bay Buccaneers
+#EXTINF:-1 tvg-id="NFL-TennesseeTitans.us" tvg-name="Tennessee Titans" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/ten.png",Tennessee Titans
+#EXTINF:-1 tvg-id="NFL-WashingtonCommanders.us" tvg-name="Washington Commanders" group-title="NFL" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500-dark/wsh.png",Washington Commanders
+#EXTINF:-1 tvg-id="NBA-AtlantaHawks.us" tvg-name="Atlanta Hawks" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/atl.png",Atlanta Hawks
+#EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="Boston Celtics" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",Boston Celtics
+https://locked.pixelserver.online/psportsgate/psportsgate100/66.m3u8
+#EXTINF:-1 tvg-id="NBA-BrooklynNets.us" tvg-name="Brooklyn Nets" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/bkn.png",Brooklyn Nets
+#EXTINF:-1 tvg-id="NBA-CharlotteHornets.us" tvg-name="Charlotte Hornets" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/cha.png",Charlotte Hornets
+#EXTINF:-1 tvg-id="NBA-ChicagoBulls.us" tvg-name="Chicago Bulls" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/chi.png",Chicago Bulls
+#EXTINF:-1 tvg-id="NBA-ClevelandCavaliers.us" tvg-name="Cleveland Cavaliers" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/cle.png",Cleveland Cavaliers
+https://locked.pixelsport.to/psportsgate/psportsgate100/95.m3u8
+#EXTINF:-1 tvg-id="NBA-DallasMavericks.us" tvg-name="Dallas Mavericks" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/dal.png",Dallas Mavericks
+#EXTINF:-1 tvg-id="NBA-DenverNuggets.us" tvg-name="Denver Nuggets" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/den.png",Denver Nuggets
+https://locked.pixelserver.online/psportsgate/psportsgate100/74.m3u8
+#EXTINF:-1 tvg-id="NBA-DetroitPistons.us" tvg-name="Detroit Pistons" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/det.png",Detroit Pistons
+#EXTINF:-1 tvg-id="NBA-GoldenStateWarriors.us" tvg-name="Golden State Warriors" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/gs.png",Golden State Warriors
+https://locked.pixelsport.to/psportsgate/psportsgate100/87.m3u8
+#EXTINF:-1 tvg-id="NBA-HoustonRockets.us" tvg-name="Houston Rockets" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/hou.png",Houston Rockets
+#EXTINF:-1 tvg-id="NBA-IndianaPacers.us" tvg-name="Indiana Pacers" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/ind.png",Indiana Pacers
+https://locked.pixelsport.to/psportsgate/psportsgate100/89.m3u8
+#EXTINF:-1 tvg-id="NBA-LAClippers.us" tvg-name="Los Angeles Clippers" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/lac.png",Los Angeles Clippers
+#EXTINF:-1 tvg-id="NBA-LosAngelesLakers.us" tvg-name="Los Angeles Lakers" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/lal.png",Los Angeles Lakers
+#EXTINF:-1 tvg-id="NBA-MemphisGrizzlies.us" tvg-name="Memphis Grizzlies" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/mem.png",Memphis Grizzlies
+#EXTINF:-1 tvg-id="NBA-MiamiHeat.us" tvg-name="Miami Heat" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/mia.png",Miami Heat
+#EXTINF:-1 tvg-id="NBA-MilwaukeeBucks.us" tvg-name="Milwaukee Bucks" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/mil.png",Milwaukee Bucks
+#EXTINF:-1 tvg-id="NBA-MinnesotaTimberwolves.us" tvg-name="Minnesota Timberwolves" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/min.png",Minnesota Timberwolves
+https://locked.pixelsport.to/psportsgate/psportsgate100/77.m3u8
+#EXTINF:-1 tvg-id="NBA-NewOrleansPelicans.us" tvg-name="New Orleans Pelicans" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/no.png",New Orleans Pelicans
+#EXTINF:-1 tvg-id="NBA-NewYorkKnicks.us" tvg-name="New York Knicks" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/ny.png",New York Knicks
+https://locked.pixelsport.to/psportsgate/psportsgate100/79.m3u8
+#EXTINF:-1 tvg-id="NBA-OklahomaCityThunder.us" tvg-name="Oklahoma City Thunder" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/okc.png",Oklahoma City Thunder
+https://locked.pixelserver.online/psportsgate/psportsgate100/80.m3u8
+#EXTINF:-1 tvg-id="NBA-OrlandoMagic.us" tvg-name="Orlando Magic" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/orl.png",Orlando Magic
+#EXTINF:-1 tvg-id="NBA-Philadelphia76ers.us" tvg-name="Philadelphia 76ers" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/phi.png",Philadelphia 76ers
+#EXTINF:-1 tvg-id="NBA-PhoenixSuns.us" tvg-name="Phoenix Suns" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/phx.png",Phoenix Suns
+#EXTINF:-1 tvg-id="NBA-PortlandTrailBlazers.us" tvg-name="Portland Trail Blazers" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/por.png",Portland Trail Blazers
+#EXTINF:-1 tvg-id="NBA-SacramentoKings.us" tvg-name="Sacramento Kings" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/sac.png",Sacramento Kings
+#EXTINF:-1 tvg-id="NBA-SanAntonioSpurs.us" tvg-name="San Antonio Spurs" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/sa.png",San Antonio Spurs
+#EXTINF:-1 tvg-id="NBA-TorontoRaptors.us" tvg-name="Toronto Raptors" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/tor.png",Toronto Raptors
+#EXTINF:-1 tvg-id="NBA-UtahJazz.us" tvg-name="Utah Jazz" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/utah.png",Utah Jazz
+#EXTINF:-1 tvg-id="NBA-WashingtonWizards.us" tvg-name="Washington Wizards" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500-dark/was.png",Washington Wizards
