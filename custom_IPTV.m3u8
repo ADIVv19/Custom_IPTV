@@ -1,18 +1,7 @@
-question-ai-logo
-managemanage
-managemanage
-useruser
-fullfull
-closeclose
-Chat AI
-Hello! Is there any question I can help you with?
-Which iconic American landmark is located in South Dakota and features the faces of four U.S. presidents?
-Who was the first person to step foot on the moon?
-Ask AI
-logo
-more
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" tvg-name="Altitude Sports" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h15_ab.png",Altitude Sports
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Test",DEFAULT=NO,URI="https://26443.live.streamtheworld.com:443/CHUMAM_SC"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AUDIO="audio"
 https://v12.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="Big Ten Sports" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s56783_h15_ab.png",Big Ten Sports
 https://v8.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
@@ -278,9 +267,8 @@ http://sapphireapp.xyz:8080/live/Scott293/6038330055/48409.ts
 http://sapphireapp.xyz:8080/live/Scott293/6038330055/48410.ts
 #EXTINF:-1 tvg-id="NHL-TampaBayLightning.us" tvg-name="Tampa Bay Lightning" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/tb.png",Tampa Bay Lightning
 http://sapphireapp.xyz:8080/live/Scott293/6038330055/48411.ts
-#EXTM3U
 #EXTINF:-1 tvg-id="NHL-TorontoMapleLeafs.us" tvg-name="Toronto Maple Leafs" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/tor.png",Toronto Maple Leafs
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Radio Broadcast",DEFAULT=NO,URI="https://26443.live.streamtheworld.com:443/CHUMAM_SC"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="TSN Radio",DEFAULT=NO,URI="https://26443.live.streamtheworld.com:443/CHUMAM_SC"
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,AUDIO="audio"
 https://locked.pixelsport.to/psportsgate/psportsgate100/32.m3u8
 #EXTINF:-1 tvg-id="NHL-UtahHockeyClub.us" tvg-name="Utah Mammoth" group-title="NHL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/UtahMammoth.svg/1200px-UtahMammoth.svg.png",Utah Mammoth
