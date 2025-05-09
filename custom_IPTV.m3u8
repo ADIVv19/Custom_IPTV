@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" tvg-name="Altitude Sports" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h15_ab.png",Altitude Sports
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Test",DEFAULT=NO,URI="https://26443.live.streamtheworld.com:443/CHUMAM_SC"
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,AUDIO="audio"
 https://v12.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="Big Ten Sports" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s56783_h15_ab.png",Big Ten Sports
 https://v8.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
@@ -224,6 +222,8 @@ http://sapphireapp.xyz:8080/live/Scott293/6038330055/48388.ts
 #EXTINF:-1 tvg-id="NHL-CalgaryFlames.us" tvg-name="Calgary Flames" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/cgy.png",Calgary Flames
 https://locked.pixelsport.to/psportsgate/psportsgate100/137.m3u8
 #EXTINF:-1 tvg-id="NHL-CarolinaHurricanes.us" tvg-name="Carolina Hurricanes" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/car.png",Carolina Hurricanes
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Test",DEFAULT=NO,URI="https://26443.live.streamtheworld.com:443/CHUMAM_SC"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AUDIO="audio"
 http://sapphireapp.xyz:8080/live/Scott293/6038330055/48390.ts
 #EXTINF:-1 tvg-id="NHL-ChicagoBlackhawks.us" tvg-name="Chicago Blackhawks" group-title="NHL" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/chi.png",Chicago Blackhawks
 http://sapphireapp.xyz:8080/live/Scott293/6038330055/48391.ts
